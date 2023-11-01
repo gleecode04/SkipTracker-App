@@ -19,9 +19,9 @@ You give yourself breathing room by skipping one class, which validates skipping
 
 <h2>USER INTERFACE</h2>
 <div>
-<img src = "Imgs/Schedule.PNG" width = 300px height = 600px></img>
-<img src = "Imgs/Home.PNG" width = 300px height = 600px></img>
-<img src = "Imgs/StatsSummary.PNG" width = 300px height = 600px></img>
+<img src = "Imgs/Schedule.PNG" width = 350px height = 600px></img>
+<img src = "Imgs/Home.PNG" width = 350px height = 600px></img>
+<img src = "Imgs/StatsSummary.PNG" width = 350px height = 600px></img>
 </div>
 </body>
 </html>
