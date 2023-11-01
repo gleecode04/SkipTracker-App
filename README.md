@@ -1,12 +1,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<style>
-  .img {
-    width : 300px;
-    height : 300px
-  }
-</style>
 </head>
 <body>
 <h2 style = "text-align : center">PROBLEM</h2>
@@ -25,9 +19,9 @@ You give yourself breathing room by skipping one class, which validates skipping
 
 <h2>USER INTERFACE</h2>
 <div>
-<img src = "Imgs/Schedule.PNG" class = "img"></img>
-<img src = "Imgs/Home.PNG" class = "img"></img>
-<img src = "Imgs/StatsSummary.PNG" class = "img"></img>
+<img src = "Imgs/Schedule.PNG" width = 300px height = 600px></img>
+<img src = "Imgs/Home.PNG" width = 300px height = 600px></img>
+<img src = "Imgs/StatsSummary.PNG" width = 300px height = 600px></img>
 </div>
 </body>
 </html>
