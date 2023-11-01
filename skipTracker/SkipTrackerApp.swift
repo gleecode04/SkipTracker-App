@@ -10,7 +10,6 @@ import SwiftData
 
 @main
 struct skipTrackerApp: App {
-    //not sure what this part does (????)
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             ClassItem.self,
