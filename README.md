@@ -13,7 +13,8 @@ You give yourself breathing room by skipping one class, which validates skipping
 <img src = "Imgs/Features.png"></img>
 
 <h2>USER INTERFACE</h2>
-<img src = "Imgs/Schedule.PNG"></img>
+<img src = "Imgs/Schedule.PNG" width = 200px height = 300px></img>
 <img src = "Imgs/Home.PNG"></img>
 <img src = "Imgs/StatsSummary.PNG"></img>
+
 
