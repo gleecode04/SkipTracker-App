@@ -1,7 +1,6 @@
 <h2 style = "text-align : center">PROBLEM</h2>
 <pre>
 <h3 style = "text-align : center;">Why do we <em>FAIL</em> to stick to our goals? <h3>
-<br>
 <h3 style = "text-align : center;">What happened to the drive you had in the beginning?</h3>
 It's all because of <b>INCONSISTENCY.</b>
 <br>
