@@ -1,3 +1,4 @@
-<img src="imgs/Problem.png"></img>
+
+<img src="Imgs/Problem.png"></img>
 
 
