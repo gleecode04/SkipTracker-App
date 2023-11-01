@@ -8,7 +8,6 @@
 <h3 style = "text-align : center;">Why do we <em>FAIL</em> to stick to our goals? <h3>
 <h3 style = "text-align : center;">What happened to the drive you had in the beginning?</h3>
 It's all because of <b>INCONSISTENCY.</b>
-<br>
 You give yourself breathing room by skipping one class, which validates skipping two.. validating more and more
 </pre>
 
@@ -19,10 +18,13 @@ You give yourself breathing room by skipping one class, which validates skipping
 
 <h2>USER INTERFACE</h2>
 <div>
-<img src = "Imgs/Schedule.PNG" width = 330px height = 600px></img>
-<img src = "Imgs/Home.PNG" width = 330px height = 600px></img>
-<img src = "Imgs/StatsSummary.PNG" width = 330px height = 600px></img>
+<img src = "Imgs/Schedule.PNG" width = 300px height = 600px></img>
+<img src = "Imgs/Home.PNG" width = 300px height = 600px></img>
+<img src = "Imgs/StatsSummary.PNG" width = 300px height = 600px></img>
 </div>
+
+<h3> Potential Developments </h3>
+
 </body>
 </html>
 
