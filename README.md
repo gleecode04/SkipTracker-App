@@ -3,7 +3,7 @@
 <h3 style = "text-align : center;">Why do we <em>FAIL</em> to stick to our goals? <h3>
 <br>
 <h3 style = "text-align : center;">What happened to the drive you had in the beginning?</h3>
-<h3>It's all because of <em>INCONSISTENCY.</em> </h3>
+It's all because of <b>INCONSISTENCY.</b>
 <br>
 You give yourself breathing room by skipping one class, which validates skipping two.. validating more and more
 </pre>
