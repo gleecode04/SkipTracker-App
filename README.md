@@ -1,3 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+  div img {
+    width = 300px height = 300px
+  }
+</style>
+</head>
+<body>
 <h2 style = "text-align : center">PROBLEM</h2>
 <pre>
 <h3 style = "text-align : center;">Why do we <em>FAIL</em> to stick to our goals? <h3>
@@ -13,8 +23,11 @@ You give yourself breathing room by skipping one class, which validates skipping
 <img src = "Imgs/Features.png"></img>
 
 <h2>USER INTERFACE</h2>
-<img src = "Imgs/Schedule.PNG" width = 200px height = 300px></img>
+<div>
+<img src = "Imgs/Schedule.PNG" ></img>
 <img src = "Imgs/Home.PNG"></img>
 <img src = "Imgs/StatsSummary.PNG"></img>
-
+</div>
+</body>
+</html>
 
