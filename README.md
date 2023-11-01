@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-  div #img {
+  .img {
     width : 300px;
     height : 300px
   }
@@ -25,9 +25,9 @@ You give yourself breathing room by skipping one class, which validates skipping
 
 <h2>USER INTERFACE</h2>
 <div>
-<img src = "Imgs/Schedule.PNG" id = img></img>
-<img src = "Imgs/Home.PNG" id = img></img>
-<img src = "Imgs/StatsSummary.PNG" id = img></img>
+<img src = "Imgs/Schedule.PNG" class = "img"></img>
+<img src = "Imgs/Home.PNG" class = "img"></img>
+<img src = "Imgs/StatsSummary.PNG" class = "img"></img>
 </div>
 </body>
 </html>
