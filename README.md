@@ -25,9 +25,9 @@ You give yourself breathing room by skipping one class, which validates skipping
 
 <h2>USER INTERFACE</h2>
 <div>
-<img src = "Imgs/Schedule.PNG" ></img>
-<img src = "Imgs/Home.PNG"></img>
-<img src = "Imgs/StatsSummary.PNG"></img>
+<img src = "Imgs/Schedule.PNG" id = img></img>
+<img src = "Imgs/Home.PNG" id = img></img>
+<img src = "Imgs/StatsSummary.PNG" id = img></img>
 </div>
 </body>
 </html>
