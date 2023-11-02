@@ -19,9 +19,9 @@ This slows down progress, decreases motivation.
 
 <h2>USER INTERFACE</h2>
 <div>
-<img src = "Imgs/Schedule.PNG" width = 300px height = 600px></img>
-<img src = "Imgs/Home.PNG" width = 300px height = 600px></img>
-<img src = "Imgs/StatsSummary.PNG" width = 300px height = 600px></img>
+<img src = "Imgs/Schedule.PNG" width = 270px height = 600px></img>
+<img src = "Imgs/Home.PNG" width = 270px height = 600px></img>
+<img src = "Imgs/StatsSummary.PNG" width = 270px height = 600px></img>
 </div>
 
 <h3>Potential Developments </h3>
